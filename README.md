@@ -13,7 +13,11 @@
 O nosso projeto consiste na implementação do algoritmo da mochila.  
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Menu](https://github.com/projeto-de-algoritmos/PD_Mochila/blob/master/imagens/menu.jpeg)
+
+![Geração de itens](https://github.com/projeto-de-algoritmos/PD_Mochila/blob/master/imagens/geraItens.jpeg)
+
+![Mostrando resultado](https://github.com/projeto-de-algoritmos/PD_Mochila/blob/master/imagens/final.jpeg)
 
 ## Instalação 
 **Linguagem**: C<br>
